@@ -19,5 +19,5 @@ variable "tag_environment" {
 
 variable "tag_owner" {
   type    = string
-  default = "sarah"
+  default = "Taylor"
 }
